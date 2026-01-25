@@ -9,5 +9,5 @@
 - numpy
 
 ## 구성
-- chapter 01 ~ chapter 11 : 교재 실습 정리
+- chapter 03 ~ chapter 11 : 교재 실습 정리
 - 각 챕터별 요약(md) 포함
